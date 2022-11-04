@@ -5,6 +5,7 @@
 Based on the Breakout game using SFML Library : 
 
 Lauch the Ball with SPACE BUTTON, and move the bar with RIGHT and LEFT.
+
 Destroy all the bricks !
 
 
